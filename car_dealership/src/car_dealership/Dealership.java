@@ -9,7 +9,7 @@ public class Dealership {
 		 * 		- vehicles to sell
 		 * 		- customers
 		 * 
-		 * 
+		 *  Below was done by myself.
 		 */
 		Employee emp1 = new Employee();
 		emp1.employeeName = "Frank";
@@ -32,6 +32,7 @@ public class Dealership {
 //		emp1.sellCar(sportsCar, cust1, emp1);
 		
 		/*
+		 *This was given by the instructor in the course. I never used it.
 		 *  handelCustomer (Customer cust1, boolean finance, Vehicles vehicle)
 		 *  if (finance == true)
 		 *  	runCreditHistory (Customer cust1, double doubleAmount)

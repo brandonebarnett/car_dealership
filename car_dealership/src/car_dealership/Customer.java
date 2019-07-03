@@ -1,5 +1,5 @@
 package car_dealership;
-
+// Everything up to the last comment was created solely by me.
 public class Customer extends Employee {
 	
 	private String name;
@@ -18,7 +18,7 @@ public class Customer extends Employee {
 			System.out.println("I will not be purchasing a vehicle today.");
 		}
 	}
-
+	// Below was created using instructions given to me by the course. Not too sure how or if I used them.
 	public String getName() {
 		return name;
 	}

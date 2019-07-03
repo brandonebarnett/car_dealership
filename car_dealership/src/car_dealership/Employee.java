@@ -1,5 +1,5 @@
 package car_dealership;
-
+// This entire class was created solely by myself.
 public class Employee extends Vehicles {
 
 	int employeeID;

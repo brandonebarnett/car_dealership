@@ -1,5 +1,5 @@
 package car_dealership;
-
+// This class was created by myself.
 public class Vehicles {
 
 	String make;
